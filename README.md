@@ -16,7 +16,6 @@ I'm a detail-oriented software developer passionate about building efficient, sc
 
 ## 🌱 Currently Learning
 
-- Advanced Spring Boot & Microservices  
 - Data Structures and Algorithms in Java  
 - Cloud Technologies (AWS - S3, EC2, CodeCommit)  
 - Docker & CI/CD (Jenkins)
@@ -37,7 +36,7 @@ I'm a detail-oriented software developer passionate about building efficient, sc
 ## 🛠️ Skills
 
 - **Languages**: Java, JavaScript, HTML, CSS, SQL  
-- **Frameworks**: Spring Boot, Spring Security  
+- **Frameworks**: Spring Boot, Spring Security, Microservices   
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Git, GitHub, Postman, Docker  
 - **Soft Skills**: Teamwork, Adaptability, Communication, Problem Solving  
